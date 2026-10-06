@@ -1,1 +1,1 @@
-# conditions
+Program ini menentukan jenis delivery berdasarkan harga total dan lokasi pembeli. Silahkan mengganti $total atau $city untuk mencoba-coba kombinasi yang memberikan jenis delivery yang berbeda. 
